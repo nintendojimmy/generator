@@ -1,0 +1,4 @@
+generator:
+    #The name maps to the src/main/resources/configuration/${name} directory
+    name: test
+    directory-build: 
